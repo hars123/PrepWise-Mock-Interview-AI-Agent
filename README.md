@@ -1,10 +1,6 @@
 # PrepWise-Mock-Interview-AI-Agent
 
-<p align="center">
-  <img src="assets/logo.png" alt="Prepwise Logo" width="120"/>
-</p>
 
----
 
 ## 📖 About
 
